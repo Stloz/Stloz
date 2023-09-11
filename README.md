@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
 👋 Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukrain.
 
@@ -21,7 +23,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stloz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stloz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
 
 <!---
 Stloz/Stloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
