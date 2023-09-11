@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UUBYepX4WSiNFf8GOT/giphy.gif" width="100"/>
 
-👋 Hi, I’m @Stloz Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukrain.
+👋 Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukrain.
 
 
 ### :hammer_and_wrench: Languages and Tools :
