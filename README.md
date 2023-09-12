@@ -3,8 +3,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
-### :wave: About Me :
-Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv :ukraine:
+### :wave: Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv :ukraine:
 
 ---
 
