@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
-### :wave: Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv :ukraine:
+### :wave: Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
+<img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
 ---
 
