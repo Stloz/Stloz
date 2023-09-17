@@ -4,6 +4,16 @@
 ### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px"> Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
 <img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
+ <a href="https://www.linkedin.com/in/serhii-vashchuk-63b37b178/" target="_blank"><br>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+  <a href="https://www.instagram.com/sergey.uarabey" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+  <a href="https://www.facebook.com/stloz.serg/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
