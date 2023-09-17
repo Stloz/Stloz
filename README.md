@@ -1,18 +1,25 @@
 <div align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="150"/>
 
-### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px"> Hi, I’m Serhii, Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
+### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px"> Hi, I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
 <img src="https://komarev.com/ghpvc/?username=Stloz&style=flat-square&color=blue" alt=""/>
 
- <a href="https://www.linkedin.com/in/serhii-vashchuk-63b37b178/" target="_blank"><br>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+<p align="center">
+<kbd>
+<a href="https://t.me/maddad13" target="_blank">
+  <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" alt="stloz"/>
+ </a>
+ <a href="https://www.linkedin.com/in/serhii-vashchuk-63b37b178/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="stloz"/>
  </a>
   <a href="https://www.instagram.com/sergey.uarabey" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="stloz" />
  </a> 
   <a href="https://www.facebook.com/stloz.serg/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="stloz"  />
   </a> 
+</kbd>
+</p>
 
 ---
 
