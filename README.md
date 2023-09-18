@@ -9,7 +9,7 @@
 <a href="https://t.me/maddad13" target="_blank">
   <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" alt="stloz"/>
  </a>
- <a href="https://www.linkedin.com/in/serhii-vashchuk-63b37b178/" target="_blank">
+ <a href="https://www.linkedin.com/in/stloz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="stloz"/>
  </a>
   <a href="https://www.instagram.com/sergey.uarabey" target="_blank">
