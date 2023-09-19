@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,+there!&height=100&section=header"/>
+</p>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
   
@@ -60,6 +64,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3eThvdHNuM2RsZDYxOTJwY3J5NGxuZnh1bDMyd2Fub2Rvem1jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!---
 Stloz/Stloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
