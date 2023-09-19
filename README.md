@@ -65,7 +65,7 @@
 <details>
    <summary><h3>↕️ Expand for more! :four_leaf_clover: Amazing things is near :</h3></summary>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3eThvdHNuM2RsZDYxOTJwY3J5NGxuZnh1bDMyd2Fub2Rvem1jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
-<h4>Comming as soon as possible...</h4>
+<h4>Coming as soon as possible...</h4>
 
 <!--### :four_leaf_clover: Amazing things is near :
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3eThvdHNuM2RsZDYxOTJwY3J5NGxuZnh1bDMyd2Fub2Rvem1jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
