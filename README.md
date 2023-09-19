@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,10,17&text=Hi,%20there!&fontSize=50&animation=fadeIn&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=6,7,8,10,17&text=Hi,%20there!&fontSize=50&animation=fadeIn&fontAlignY=30&desc=I’m%20Serhii,%20Full%20Stack%20Developer&descAlignY=80"/>
 </p>
+<h3 align="center">from Ukraine, Kharkiv  :ukraine: </h3>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
   
-### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
-
-
+<!--### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
+-->
 <p align="center">
 <kbd>
 <a href="https://t.me/maddad13" target="_blank">
@@ -24,6 +23,7 @@
   </a> 
 </kbd>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
 
 ---
 
@@ -63,10 +63,6 @@
 ### :four_leaf_clover: Amazing things is near :
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3eThvdHNuM2RsZDYxOTJwY3J5NGxuZnh1bDMyd2Fub2Rvem1jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,10,17&height=100&section=footer"/>
-</p>
 
 <!---
 Stloz/Stloz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
