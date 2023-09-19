@@ -56,7 +56,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stloz&layout=compact&theme=shadow_green&hide_border=true&text_color=fff)
 
 ---
-
+### :wave: Amazing things is near :
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3eThvdHNuM2RsZDYxOTJwY3J5NGxuZnh1bDMyd2Fub2Rvem1jMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </div>
 
