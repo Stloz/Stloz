@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=6,7,8,10,17&text=Hi,%20there!&fontSize=50&animation=fadeIn&fontAlignY=30&desc=I’m%20Serhii,%20Full%20Stack%20Developer&descAlignY=80"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=6,7,8,8,8,8,8,8,8,8,10,17&text=Hi,%20there!&fontSize=60&animation=fadeIn&fontAlignY=30&desc=I’m%20Serhii,%20Full%20Stack%20Developer&descAlignY=80"/>
 </p>
 <h3 align="center">from Ukraine, Kharkiv  :ukraine: </h3>
 
