@@ -3,12 +3,13 @@
 </p>
 <h3 align="center">from Ukraine, Kharkiv  :ukraine: </h3>
 
-<div align="center">
-  
 <!--### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
 -->
 <p align="center">
 <kbd>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/>
+  </a>
 <a href="https://t.me/maddad13" target="_blank">
   <img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" alt="stloz"/>
  </a>
@@ -23,9 +24,9 @@
   </a> 
 </kbd>
 </p>
-<img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
 
 ---
+<div align="center">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
