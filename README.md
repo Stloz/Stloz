@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,+there!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,+there!&fontSize=50&animation=fadeIn&height=100&section=header"/>
 </p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
   
-### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">Hi, I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
+### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
 
 
 <p align="center">
