@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f" alt="Serhii Vashchuk"/><br>
+<img src="https://komarev.com/ghpvc/?username=Stloz&style=for-the-badge&color=007b1f&label=My+Profile+Views" alt="Serhii Vashchuk"/><br>
   
 ### <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="25px" width="25px">Hi, I’m Serhii, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine, Kharkiv  :ukraine:
 
