@@ -100,7 +100,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes and React Native"]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
 -->
 
