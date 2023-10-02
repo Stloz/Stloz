@@ -73,7 +73,8 @@
 ```yaml
 name: Serhii Vashchuk
 located_in: Kharkiv, Ukraine
-current_job: Full Stack Developer
+current_job: Head of sales and marketing department
+dream_job: Full Stack Developer 
 education:
   [
     "Self-Taught Developer and Designer",
