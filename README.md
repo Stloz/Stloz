@@ -82,7 +82,7 @@ education:
     "Master's in Electrical and Computer Engineering",
     "Bachelor's in Electronics and Communication",
   ]
-company: itcprof
+company: itcpro
 
 fields_of_interests:
   [
