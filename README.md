@@ -82,6 +82,16 @@ education:
     "Master's in Electrical and Computer Engineering",
     "Bachelor's in Electronics and Communication",
   ]
+
+about me:
+[
+    I'm a Full Stack developer.
+    Extensive technical skills in JavaScript, React, Node.js, and GIT have allowed me to create great
+    projects that could make people's lives easier and more comfortable. As well as soS skills developed from contribuTng to team projects, a8ending IT school, and working on my own projects.
+    I believe my experience helps businesses become more efficient and provides a great user experience for product users.
+    I am excited to join an IT company where I can apply my knowledge and experience to help the company grow and drive my personal career growth.
+    Let's work together to bring our ideas to life!
+]
 company: itcprof
 
 fields_of_interests:
