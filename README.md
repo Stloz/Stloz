@@ -92,7 +92,7 @@ about me:
     I am excited to join an IT company where I can apply my knowledge and experience to help the company grow and drive my personal career growth.
     Let's work together to bring our ideas to life!
 ]
-company: itcprof
+company: itc
 
 fields_of_interests:
   [
